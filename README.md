@@ -21,8 +21,8 @@ From the image space perspective, specific correlation patterns exist between pi
 
 **Intra-domain Accuracy Comparison.** Table 1 reports each method's localization performance in terms of F1 score and AUC. We observe that SDPAL achieves the highest performance on FantasticReality, IMD2020, and TampCOCO datasets.
 
-![image-20251120202958644](D:\Document\Git\CDFPE\image\image-20251120202958644.png)
+![image-20251120202958644](image\image-20251120202958644.png)
 
 **Cross-domain Generalization Comparison.** As shown in Table 2, on the COVERAGE test set, SDPAL achieved F1 and AUC scores second only to SAFIRE, a method proposed in 2025. This indicates that SDPAL demonstrates superior anti-interference capability and robustness compared to other methods when handling high-fidelity tampering scenarios.
 
-![image-20251120203019994](D:\Document\Git\CDFPE\image\image-20251120203019994.png)
+![image-20251120203019994](image\image-20251120203019994.png)
