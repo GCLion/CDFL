@@ -10,7 +10,7 @@ From the image space perspective, specific correlation patterns exist between pi
 - An Attention Map Assisted Forgery Localization architecture is established, leveraging encoder-decoder skip connections of pixel correlation attention maps to amplify unique forged region correlation trajectories for high-precision fine-grained localization.
 - We conduct extensive comparative and generalization experiments, achieving state-of-the-art (SOTA) results on all datasets, with the F1 score improved by nearly 5% compared to existing advanced methods.
 
-![image-20251120202601307](D:\Document\Git\CDFPE\image\image-20251120202601307.png)
+![image-20251120202601307](image/image-20251120202601307.png)
 
 ## Get Started
 
@@ -21,8 +21,8 @@ From the image space perspective, specific correlation patterns exist between pi
 
 **Intra-domain Accuracy Comparison.** Table 1 reports each method's localization performance in terms of F1 score and AUC. We observe that SDPAL achieves the highest performance on FantasticReality, IMD2020, and TampCOCO datasets.
 
-![image-20251120202958644](.\image\image-20251120202958644.png)
+![image-20251120202958644](image/image-20251120202958644.png)
 
 **Cross-domain Generalization Comparison.** As shown in Table 2, on the COVERAGE test set, SDPAL achieved F1 and AUC scores second only to SAFIRE, a method proposed in 2025. This indicates that SDPAL demonstrates superior anti-interference capability and robustness compared to other methods when handling high-fidelity tampering scenarios.
 
-![image-20251120203019994](.\image\image-20251120203019994.png)
+![image-20251120203019994](image/image-20251120203019994.png)
